@@ -14,7 +14,7 @@
 }
 
 .par {
-	margin-left: 10px;
+	margin-left: 40px;
 	color: white;
 	text-align: left;
 }
@@ -26,11 +26,11 @@
 
 .header {
 	color: white;
-	margin-left: 10px;
+	margin-left: 40px;
 	font-size: 20px;
 }
 
 .background {
-	background-color: #420d39;
+	background-color: black;
 }
 
