@@ -5,39 +5,6 @@
   margin: 0;
 }
 
-.container4 {
-	background-color: #6f42c1;
-	width: 1000px;
-	padding-top: 50px;
-}
-
-.div1{
-    background-color: #6f42c1;
-    width: 900px;
-    height: 354px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.img1 {
-	float: right;
-	margin-right: 10px;
-}
-
-div.par {
-    min-height: 10em;
-    display: table-cell;
-    vertical-align: middle
-}
-
-div.container {
-	min-height: 10em;
-    display: table-cell;
-    vertical-align: middle
-}
-
 .par {
 	margin-left: 10px;
-	color: white;
-	text-align: left;
 }
