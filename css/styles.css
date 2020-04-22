@@ -1,7 +1,4 @@
 #intro {
     background: url("https://raw.githubusercontent.com/Lanabreman/outcast-website/master/images/outcast.jpg")no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    
 }
