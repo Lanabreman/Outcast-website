@@ -1,0 +1,59 @@
+<<<<<<< HEAD
+=======
+@charset "utf-8";
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.div1{
+	background-color: black;
+    width: 900px;
+    height: 354px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.par {
+	margin-left: 20px;
+	color: white;
+	text-align: left;
+}
+
+.img1 {
+	float: right;
+	margin-left: 10px;
+}
+
+.header {
+	color: white;
+	margin-left: 20px;
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+.background {
+	background-color: black;
+}
+
+.list-group.list-group-flush {
+	margin-left: 20px;
+	width: 370px;
+}
+
+.card {
+	height: auto;
+	width: 100%;
+	text-align: center;
+	margin-left: 20px;
+	margin-right: auto;
+}
+
+.header2 {
+	color: white;
+	font-size: 20px;
+	text-decoration: underline;
+	text-align: center;
+}
+>>>>>>> 9910fbde64337ec40aa37e86e997d42a97deda42
