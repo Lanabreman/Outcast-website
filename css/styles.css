@@ -14,7 +14,7 @@
 }
 
 .par {
-	margin-left: 40px;
+	margin-left: 20px;
 	color: white;
 	text-align: left;
 }
@@ -26,7 +26,7 @@
 
 .header {
 	color: white;
-	margin-left: 40px;
+	margin-left: 20px;
 	font-size: 20px;
 	text-decoration: underline;
 }
@@ -36,7 +36,7 @@
 }
 
 .list-group.list-group-flush {
-	margin-left: 40px;
+	margin-left: 20px;
 	width: 370px;
 }
 
@@ -44,7 +44,7 @@
 	height: auto;
 	width: 100%;
 	text-align: center;
-	margin-left: auto;
+	margin-left: 20px;
 	margin-right: auto;
 }
 
