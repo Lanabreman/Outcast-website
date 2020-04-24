@@ -65,9 +65,10 @@ h1 {
 	height: auto;
 	width: 50%;
 	text-align: center;
-	margin-left: 20px;
+	margin-left: auto;
 	margin-right: auto;
-}	
+}
+
 .fa-fa-instagram {
   background: #125688;
   color: white;
@@ -78,4 +79,4 @@ h1 {
   text-align: center;
   text-decoration: none;
 }
->>>>>>> 7d1446471a609b50c549353cac530d24fc6a4b0b
+
