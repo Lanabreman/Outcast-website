@@ -10,7 +10,7 @@
 }
 
 .h1 {
-  color: navy;
+  color: white;
   margin-left: 20px;
   font-size: 50px;
 }
@@ -46,9 +46,10 @@
 }
 
 .header {
-	color: navy;
+	color: white;
   	margin-left: 20px;
   	font-size: 30px;
+  	text-decoration: underline;
 }
 
 .background {
