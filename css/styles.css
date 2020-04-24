@@ -50,8 +50,7 @@ h1 {
 
 .list-group.list-group-flush {
 	margin-left: 20px;
-	color: white;
-	text-align: left;
+	width: 370px;
 }
 
 .card {
