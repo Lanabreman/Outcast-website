@@ -59,7 +59,15 @@ h1 {
 	text-align: center;
 	margin-left: 20px;
 	margin-right: auto;
-=======
+}
+
+.card2 {
+	height: auto;
+	width: 50%;
+	text-align: center;
+	margin-left: 20px;
+	margin-right: auto;
+}	
 .fa-fa-instagram {
   background: #125688;
   color: white;
