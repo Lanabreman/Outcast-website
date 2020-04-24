@@ -49,7 +49,9 @@ h1 {
 }
 
 .list-group.list-group-flush {
-	width: 370px;
+	margin-left: 20px;
+	color: white;
+	text-align: left;
 }
 
 .card {
