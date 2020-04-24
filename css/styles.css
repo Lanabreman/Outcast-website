@@ -7,6 +7,7 @@ h1 {
   margin-left: 20px;
 }
 
+<<<<<<< HEAD
 @ -1,59 +1,8 @@
 <<<<<<< HEAD
 =======
@@ -58,3 +59,14 @@ h1 {
 	text-align: center;
 	margin-left: 20px;
 	margin-right: auto;
+=======
+.fa-fa-instagram {
+  background: #125688;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+}
+>>>>>>> 7d1446471a609b50c549353cac530d24fc6a4b0b
