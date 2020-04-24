@@ -15,6 +15,13 @@
   font-size: 30px;
 }
 
+.div2 {
+	background-color: black;
+	width: 1600px;
+	height: 354px;
+	margin-left: auto;
+	margin-right: auto;
+}
 .div1{
 	background-color: black;
     width: 900px;
