@@ -34,7 +34,7 @@
 .h1.design {
   color: white;
   font-size: 30px;
-  text-align: left;
+  text-align: center;
   text-decoration: underline;
 }
 
@@ -57,9 +57,19 @@
 .div2.design {
 	background-color: black;
 	width: 1000px;
-	height: 1000px;
+	height: 900px;
 	margin-left: auto;
 	margin-right: 0px;
+}
+
+
+.div2.us{
+	background-color: black;
+	width: 1000px;
+	height: 900px;
+	margin-left: auto;
+	margin-right: 0px;
+	text-align: center;
 }
 
 .div1{
@@ -164,4 +174,9 @@
     width: 95%;
     text-align: center;
     margin-left: 30px;
+}
+
+.panel-heading {
+	 text-decoration: underline;
+	 font-size: 20px;
 }
