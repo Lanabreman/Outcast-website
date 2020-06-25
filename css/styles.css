@@ -60,6 +60,7 @@
 	height: 900px;
 	margin-left: auto;
 	margin-right: 0px;
+	position: relative;
 }
 
 
@@ -169,6 +170,12 @@
   text-decoration: none;
 }
 
+.banner-p {
+	color: white;
+	font-size: 10px;
+	text-align: center
+}
+
 .rowcolor {
     background-color: black;
     width: 95%;
@@ -180,3 +187,8 @@
 	 text-decoration: underline;
 	 font-size: 20px;
 }
+
+.jumbotron.text-center {
+	width: 400px;
+	margin-left: 550px;
+	margin-right: auto;
