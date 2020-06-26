@@ -183,6 +183,10 @@
     margin-left: 30px;
 }
 
+.white-text.my-4 {
+	color: white;
+}
+
 .panel-heading {
 	 text-decoration: underline;
 	 font-size: 20px;
